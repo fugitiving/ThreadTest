@@ -1,0 +1,7 @@
+C:\Users\gaoke\Documents\Visual Studio 2013\Projects\LambdaTest\LambdaTest\bin\Debug\LambdaTest.exe.config
+C:\Users\gaoke\Documents\Visual Studio 2013\Projects\LambdaTest\LambdaTest\bin\Debug\LambdaTest.exe
+C:\Users\gaoke\Documents\Visual Studio 2013\Projects\LambdaTest\LambdaTest\bin\Debug\LambdaTest.pdb
+C:\Users\gaoke\Documents\Visual Studio 2013\Projects\LambdaTest\LambdaTest\obj\Debug\LambdaTest.exe
+C:\Users\gaoke\Documents\Visual Studio 2013\Projects\LambdaTest\LambdaTest\obj\Debug\LambdaTest.pdb
+C:\Users\gaoke\Documents\Visual Studio 2013\Projects\LambdaTest\LambdaTest\obj\Debug\LambdaTest.csprojResolveAssemblyReference.cache
+C:\Users\gaoke\Documents\Visual Studio 2013\Projects\LambdaTest\LambdaTest\bin\Debug\ThoughtWorks.QRCode.dll
